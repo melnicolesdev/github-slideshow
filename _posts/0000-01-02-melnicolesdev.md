@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+<b>A Witty Caption</b>
 Use the left arrow to go back!
